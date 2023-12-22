@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a third year Phd-student at SJTU EECS
+- 🔭 I am a fourth year Phd-student at SJTU EECS
 
 ### Github stats
 
